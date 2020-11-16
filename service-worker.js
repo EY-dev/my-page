@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-page/precache-manifest.e872f5a84c9f7d8afe134cdb512bacb9.js"
+  "/my-page/precache-manifest.831f91675ca3795e0cbcf6bf8cabf4aa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "eyesaulov-info"});
